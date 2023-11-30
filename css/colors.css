@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+:root {
+--text: #f8d3d3;
+--background: #000000;
+--primary: #e14141;
+--secondary: #1a0404;
+--accent: #FF5DA3;
+}
+
+.rtc-bg{
+	background-color: #000000;
+	color: text;
+}
+
+.accent-line {
+  border-color: #FF5DA3;
+}
